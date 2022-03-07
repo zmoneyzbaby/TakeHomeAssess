@@ -11,7 +11,7 @@ In the project directory, you can run:
 
 ## Json-Server 
 In react-app run command to start json-server 
-### 'json-server --watching Builders.json --port :8000' 
+### `json-server --watching Builders.json --port :8000`
 
 
     
